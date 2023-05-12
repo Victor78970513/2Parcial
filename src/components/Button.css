@@ -1,0 +1,17 @@
+.button-container {
+  width: 56px;
+  height: 22px;
+  background: #b82323;
+  box-shadow: 0px 4px 4px #dcdbdb;
+  border-radius: 2px;
+  text-align: center;
+  padding-top: 3px;
+  margin-right: 10px;
+}
+
+.button-container span{
+    font-style: normal;
+    font-size: 14px;
+    color: white;
+    font-weight: 400;
+}
