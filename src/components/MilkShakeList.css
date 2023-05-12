@@ -1,3 +1,9 @@
-.title-list{
-    margin-left: 19px;
+.title-list {
+  margin-left: 19px;
+}
+.line {
+  width: 92px;
+  border: 2px solid #b82323;
+  border-radius: 10px;
+  transform: rotate(180deg);
 }

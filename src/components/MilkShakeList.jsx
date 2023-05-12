@@ -6,6 +6,7 @@ const MilkShakeList = () => {
     <div>
         <div className='title-list'>
           <span >Milk Shakes</span>
+          <div className='line'></div>
         </div>
         <CardRestauran/>
     </div>
