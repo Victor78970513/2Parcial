@@ -7,7 +7,7 @@ const MilkShakeList = () => {
         <div className='title-list'>
           <span >Milk Shakes</span>
         </div>
-        {/* <CardRestauran/> */}
+        <CardRestauran/>
     </div>
   )
 }
