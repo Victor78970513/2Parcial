@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "title": "Crunchy Butterscotch",
+        "subtitle":"Butterscotch & Cashews",
+        "price": 18
+    },
+    {
+        "id":2,
+        "title": "Supermans Secret",
+        "subtitle":"Peanut Butter . Dry fruit . With Vanilla Ice Cream",
+        "price": 21
+    },
+    {
+        "id":3,
+        "title": "Wonder Woman Shake",
+        "subtitle":"Saffron . With Vanilla Ice Cream",
+        "price": 19
+    }
+]
