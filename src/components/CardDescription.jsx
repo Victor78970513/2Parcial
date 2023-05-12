@@ -1,13 +1,17 @@
 import React from "react";
+import "./CardDescription.css"
 
 const CardDescription = ({ title, subtitle, price }) => {
   return (
-    <div>
-      <div>
+    <div className="card-description-container">
+      <div className="title-container">
+        <div className="icon"></div>
         <span>{title}</span>
       </div>
-      <span>{subtitle}</span>
-      <span>{price}</span>
+      <span className="subtitle">{subtitle}</span>
+      <br/>
+      <br/>
+      <span className="price">Bs {price}</span>
     </div>
   );
 };

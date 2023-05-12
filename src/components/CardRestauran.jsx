@@ -7,7 +7,7 @@ const CardRestauran = () => {
     <div>
         {
             cards.map((card)=>{
-                return <CardDescription title={card.title} subtitle={card.subtitle} key={card.id}/>
+                return <CardDescription title={card.title} subtitle={card.subtitle} price={card.price} key={card.id}/>
             })
         }
     </div>
